@@ -23,10 +23,3 @@ Meu objetivo é atuar como **Desenvolvedor BackEnd**, aplicando meus conheciment
 * **ETEC Itaquera:** Estudante do curso técnico de Desenvolvimento de Sistemas.
 
 ---
-
-## 🚀 Contato
-
-Sinta-se à vontade para entrar em contato!
-
-* [Adicione seu Link do LinkedIn]
-* [Adicione seu Link do GitHub]
