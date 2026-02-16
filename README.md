@@ -4,7 +4,7 @@ Sou um desenvolvedor focado em lógica e soluções de *backend*, buscando excel
 
 ## 🎯 Objetivo Profissional
 
-Meu objetivo é atuar como **Desenvolvedor BackEnd**, aplicando meus conhecimentos em estruturas de dados e bancos de dados para construir a lógica de sistemas de alta performance.
+Meu objetivo é atuar como **Desenvolvedor Full-stack**, aplicando meus conhecimentos em estruturas de dados e bancos de dados para construir a lógica de sistemas de alta performance.
 
 ---
 
